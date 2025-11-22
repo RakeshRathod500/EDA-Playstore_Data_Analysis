@@ -1,0 +1,40 @@
+Future Scope
+
+The project can be expanded with advanced analysis and machine learning models:
+
+🔮 1. Predictive Models
+
+Build a Regression Model to predict Installs based on
+ratings, reviews, category, size, etc.
+
+Build a Classification Model to predict whether an app will succeed.
+
+🧠 2. Sentiment Analysis on User Reviews
+
+Extract user reviews and perform NLP sentiment analysis.
+
+Identify common complaints and user satisfaction factors.
+
+📈 3. Time-Series Analysis
+
+Analyze how installs change over time using updated datasets.
+
+🎯 4. Recommendation System
+
+Suggest category-wise improvement strategies.
+
+Recommend similar apps to users using app feature similarity.
+
+🧹 5. Data Cleaning Automation
+
+Build pipelines to auto-clean Play Store datasets.
+
+📊 6. Dashboards
+
+Create interactive dashboards in:
+
+Power BI
+
+Tableau
+
+Streamlit
